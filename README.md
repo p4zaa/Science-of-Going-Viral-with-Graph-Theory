@@ -227,4 +227,4 @@ Viral ที่เกิดจาก “mega-influencer” ไม่เพีย
 
 > การเข้าใจการแพร่กระจายของไวรัล ก็คือการเข้าใจผู้คนและเครือข่ายที่เชื่อมโยงพวกเขา   
 
-![separator-connect-dot](images/separator-connect-dot.png)
+![separator-connect-dot](images/separator-connect-dot-2.png)
