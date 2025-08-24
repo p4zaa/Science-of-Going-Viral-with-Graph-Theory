@@ -59,7 +59,7 @@
    
 📒 หากเป้าหมายคือ “การกระจายไว” ให้เลือกคนที่มี Closeness Centrality สูง   
 
-![closeness-visual-1-crop](images/closeness-visual-1-crop.gif)  
+![closeness-visual-1](images/closeness-visual-1.gif)
 
  --- 
 
